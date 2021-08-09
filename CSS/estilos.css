@@ -1,0 +1,27 @@
+body
+{
+  padding: 0px;
+  margin:0px;
+  background-image: url(https://c4.wallpaperflare.com/wallpaper/1017/6/335/backround-digital-art-blue-ice-wallpaper-preview.jpg);
+  background-repeat:no-repeat;
+  background-size:100%;
+  box-shadow: 3px 3px 4px 4px #c7c8d1  ;
+  padding-bottom: 10px;
+  border-radius: 5px;
+}
+nav
+{
+  background-color:#0d285e ;
+  padding: 10px;
+  color: white;
+
+}
+h1
+{
+  text-align: center;
+  text-shadow:2px 2px white ;
+  font-size: 30px;
+  color: #53ede8;
+  box-shadow: 3px 3px 4px 4px #53ede8 ;
+  border-radius: 5px;
+}
